@@ -1,0 +1,36 @@
+// Heading & Text classes
+@each $size in map-keys($headings) {
+  .heading-#{$size} {
+    font-size: texts-deep-get($headings, $size, 'default', 'font-size');
+    line-height: texts-deep-get($headings, $size, 'default', 'line-height');
+
+    @include media-breakpoint-up(md) {
+      font-size: texts-deep-get($headings, $size, 'md', 'font-size');
+      line-height: texts-deep-get($headings, $size, 'md', 'line-height');
+    }
+  }
+}
+
+@each $size in map-keys($texts) {
+  .text-#{$size} {
+    font-size: texts-deep-get($texts, $size, 'default', 'font-size');
+    line-height: texts-deep-get($texts, $size, 'default', 'line-height');
+
+    @include media-breakpoint-up(md) {
+      font-size: texts-deep-get($texts, $size, 'md', 'font-size');
+      line-height: texts-deep-get($texts, $size, 'md', 'line-height');
+    }
+  }
+}
+
+.text-white {
+  color: $white;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-light {
+  font-weight: 300;
+}

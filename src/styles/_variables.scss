@@ -1,0 +1,130 @@
+// Colors
+$lime:            #28eb9b;
+$white:           #ffffff;
+$dark:            #3E4858;
+$darker:          #181e27;
+$black:           #000000;
+$green:           #12a715;
+$red:             #ea1548;
+$yellow:          #ffa053;
+$blue:            #5a6cde;
+$light:           #ebf1fa;
+
+$primary:         $lime;
+$secondary:       $dark;
+$success:         $lime;
+$danger:          $red;
+$warning:         $yellow;
+$info:            $blue;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $green,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+);
+
+// Options
+$enable-validation-icons:   false;
+
+// Spacers
+$spacer:      1rem;   // 16px
+$spacers: (
+  0: 0,
+  1: $spacer * .125,  // 2px
+  2: $spacer * .25,   // 4px
+  3: $spacer * .5,    // 8px
+  4: $spacer,         // 16px
+  5: $spacer * 1.5,   // 24px
+  6: $spacer * 2,     // 32px
+  7: $spacer * 2.5,   // 40px
+  8: $spacer * 3,     // 48px
+  9: $spacer * 3.5,   // 56px
+  10: $spacer * 4,    // 64px
+);
+
+// Body
+$body-color:                $darker;
+$body-bg:                   $white;
+
+$font-family-base:         'Titillium Web', sans-serif;
+
+// Responsive typography
+$headings: (
+  large: (
+    default: (
+      font-size: 48px,
+      line-height: 64px,
+    ),
+    md: (
+      font-size: 60px,
+      line-height: 72px,
+    ),
+  ),
+  medium: (
+    default: (
+      font-size: 36px,
+      line-height: 52px,
+    ),
+    md: (
+      font-size: 48px,
+      line-height: 58px,
+    ),
+  ),
+  small: (
+    default: (
+      font-size: 24px,
+      line-height: 38px,
+    ),
+    md: (
+      font-size: 36px,
+      line-height: 44px,
+    ),
+  ),
+);
+
+$texts: (
+  lead: (
+    default: (
+      font-size: 18px,
+      line-height: 26px,
+    ),
+    md: (
+      font-size: 20px,
+      line-height: 28px,
+    ),
+  ),
+  main: (
+    default: (
+      font-size: 16px,
+      line-height: 24px,
+    ),
+    md: (
+      font-size: 16px,
+      line-height: 24px,
+    ),
+  ),
+  small: (
+    default: (
+      font-size: 14px,
+      line-height: 20px,
+    ),
+    md: (
+      font-size: 12px,
+      line-height: 20px,
+    ),
+  ),
+);
+
+// Buttons
+$btn-padding-y:               8px;
+$btn-padding-x:               34px;
+
+$btn-padding-y-sm:            6px;
+$btn-padding-x-sm:            24px;
+
+$btn-padding-y-lg:            12px;
+$btn-padding-x-lg:            52px;
+$btn-font-size-lg:            18px;
