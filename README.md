@@ -2,16 +2,22 @@
 
 This template provides a minimal setup to get React and Bootstrap working in Vite with HMR and some ESLint rules.
 
-## Prerequisites
-
-Node version: `20.9.0`
+Node version: `20.17.0`
 
 If you use another version, please use [n](https://github.com/tj/n) to manage.
 
-### ⚙️ Install dependencies
+`pnpm` version: `9.9.0`
+
+To upgrade to the latest pnpm version please run:
 
 ```bash
-yarn
+npm install -g pnpm@latest
+```
+
+### Install dependencies ⏬
+
+```bash
+pnpm install
 ```
 
 ## 🚀 Available Scripts
@@ -19,11 +25,11 @@ yarn
 To start the project, you can run:
 
 ```
-yarn dev
+pnpm dev
 ```
 
 To build the project, you can run:
 
 ```
-yarn build
+pnpm build
 ```
