@@ -6,7 +6,7 @@ Node version: `20.17.0`
 
 If you use another version, please use [n](https://github.com/tj/n) to manage.
 
-`pnpm` version: `9.9.0`
+`pnpm` version: `9.12.1`
 
 To upgrade to the latest pnpm version please run:
 
