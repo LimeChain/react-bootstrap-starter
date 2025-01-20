@@ -30,12 +30,15 @@ const Modal = ({ show = true, children, closeModal }: IModalProps) => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, [closeModal]);
-
   useEffect(() => {
-    document.addEventListener('keydown', handleKeyDown);
+    const handleKeyDownEvent = (event: KeyboardEvent) => {
+      handleKeyDown(event as unknown as React.KeyboardEvent);
+    };
+
+    document.addEventListener('keydown', handleKeyDownEvent);
 
     return () => {
-      document.removeEventListener('keydown', handleKeyDown);
+      document.removeEventListener('keydown', handleKeyDownEvent);
     };
   }, [handleKeyDown]);
 
