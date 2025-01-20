@@ -25,13 +25,6 @@ const RWD = () => {
         <div className="row mt-5 mt-lg-10">
           <div className="col-lg-5 offset-lg-1">
             <div className="rounded p-4 p-lg-6 bg-secondary d-lg-flex align-items-center">
-              <div className="ms-lg-5 order-lg-1">
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/uploads/2022/04/Group-27.svg"
-                  alt=""
-                />
-              </div>
-
               <div className="mt-4 mt-lg-0">
                 <h2 className="heading-small text-white">Pioneers</h2>
                 <p className="text-main text-light text-white mt-4">
@@ -46,13 +39,6 @@ const RWD = () => {
 
           <div className="col-lg-5 mt-5 mt-lg-0">
             <div className="rounded p-4 p-lg-6 bg-primary d-lg-flex align-items-center">
-              <div className="ms-lg-5 order-lg-1">
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/uploads/2022/04/Group-26.svg"
-                  alt=""
-                />
-              </div>
-
               <div className="mt-4 mt-lg-0">
                 <h2 className="heading-small"> Deep expertise </h2>
                 <p className="text-main text-light mt-4">
@@ -75,60 +61,36 @@ const RWD = () => {
             <div className="col-lg-4">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>ZK Tech development</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
 
             <div className="col-lg-4 mt-5 mt-lg-0">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>Protocol development</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
 
             <div className="col-lg-4 mt-5 mt-lg-0">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>DEX development</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
 
             <div className="col-lg-4 mt-5">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>NFT development</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
 
             <div className="col-lg-4 mt-5">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>Dev tooling</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
 
             <div className="col-lg-4 mt-5">
               <div className="bg-white rounded p-4 p-lg-6 d-flex justify-content-between align-items-center">
                 <h2>dApp development</h2>
-                <img
-                  src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/vector.svg"
-                  alt=""
-                />
               </div>
             </div>
           </div>
@@ -151,13 +113,7 @@ const RWD = () => {
               </Button>
             </div>
           </div>
-          <div className="col-lg-6 mt-5 mt-lg-0">
-            <img
-              className="img-fluid"
-              src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/themes/astra-child/assets/img/about-us-photo-2x.webp"
-              alt=""
-            />
-          </div>
+          <div className="col-lg-6 mt-5 mt-lg-0"></div>
         </div>
       </div>
     </>
