@@ -22,7 +22,6 @@
     }
   }
 }
-
 .text-white {
   color: $white;
 }
@@ -33,4 +32,40 @@
 
 .text-light {
   font-weight: 300;
+}
+
+.link-primary {
+  color: $primary;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.link-white {
+  color: $white;
+  text-decoration: none;
+  position: relative;
+
+  &:hover {
+    color: $light;
+  }
+
+  &.has-notification {
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0px;
+      right: -5px;
+      width: 12px;
+      height: 12px;
+      background-color: $danger;
+      border-radius: 50%;
+    }
+  }
+}
+
+.no-wrap {
+  white-space: nowrap;
 }

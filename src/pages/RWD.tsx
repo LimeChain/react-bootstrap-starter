@@ -1,14 +1,9 @@
-import Button from './ui/Button';
+import Button from '../components/ui/Button';
 
 const RWD = () => {
   return (
     <>
       <div className="container my-5 my-lg-10">
-        <img
-          src="https://cdn-dfnhb.nitrocdn.com/ncvMSDTJqBfzbhjurpWfVBRIBTRVNXNa/assets/images/optimized/rev-7a3495a/limechain.tech/wp-content/uploads/2021/02/logo-limechain.svg"
-          alt=""
-        />
-
         <h1 className="heading-large text-bold text-center text-lg-start mt-5 mt-lg-10">
           Web3 Development and Consulting
         </h1>
