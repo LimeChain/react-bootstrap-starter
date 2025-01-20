@@ -1,4 +1,7 @@
 import { Link } from 'react-router-dom';
+import { ConnectButton } from 'thirdweb/react';
+
+import { client } from '../config';
 
 const Header = () => {
   return (
@@ -22,7 +25,9 @@ const Header = () => {
         </Link>
       </div>
 
-      <div></div>
+      <div>
+        <ConnectButton client={client} />
+      </div>
     </div>
   );
 };

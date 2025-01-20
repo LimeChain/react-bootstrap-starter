@@ -20,6 +20,17 @@ npm install -g pnpm@latest
 pnpm install
 ```
 
+Before running the project please create `.env` or use the example one.
+
+```shell
+cp .env.example .env
+```
+
+```shel
+VITE_API_URL=
+VITE_THIRDWEB_CLIENT_ID=
+```
+
 ## 🚀 Available Scripts
 
 To start the project, you can run:

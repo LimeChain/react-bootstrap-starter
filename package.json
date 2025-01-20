@@ -16,6 +16,7 @@
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.5.1",
     "react-router-dom": "^7.1.2",
+    "thirdweb": "^5.85.0",
     "zustand": "^5.0.3"
   },
   "devDependencies": {

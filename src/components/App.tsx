@@ -1,4 +1,5 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { ThirdwebProvider } from 'thirdweb/react';
 
 import Home from '../pages/Home.tsx';
 import Styleguide from '../pages/Styleguide.tsx';
@@ -43,7 +44,11 @@ function App() {
     },
   ]);
 
-  return <RouterProvider router={router} />;
+  return (
+    <ThirdwebProvider>
+      <RouterProvider router={router} />
+    </ThirdwebProvider>
+  );
 }
 
 export default App;
