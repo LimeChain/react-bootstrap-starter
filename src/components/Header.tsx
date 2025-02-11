@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { WalletConnectButton } from './WalletConnectButton';
 
 const Header = () => {
   return (
@@ -22,7 +23,9 @@ const Header = () => {
         </Link>
       </div>
 
-      <div></div>
+      <div>
+        <WalletConnectButton />
+      </div>
     </div>
   );
 };
