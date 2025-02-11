@@ -4,13 +4,7 @@ import {
   TOKEN_PROGRAM_ID,
   getMinimumBalanceForRentExemptMint,
 } from '@solana/spl-token';
-import {
-  Connection,
-  Transaction,
-  SystemProgram,
-  sendAndConfirmTransaction,
-  Keypair,
-} from '@solana/web3.js';
+import { Connection, Transaction, SystemProgram, Keypair } from '@solana/web3.js';
 import { PhantomWalletAdapter } from '@solana/wallet-adapter-phantom';
 
 export const createToken = async (
@@ -56,12 +50,21 @@ export const createToken = async (
       ),
     );
 
-    // Sign transaction with the wallet and mint keypair
-    const signedTx = await wallet.signTransaction(transaction);
-    signedTx.partialSign(mintKeypair);
+    // Partially sign with the mint keypair
+    transaction.partialSign(mintKeypair);
 
-    // Send and confirm transaction
-    const txId = await sendAndConfirmTransaction(connection, signedTx, [mintKeypair]);
+    // Get the wallet to sign
+    const signedTx = await wallet.signTransaction(transaction);
+
+    // Send the transaction
+    const rawTransaction = signedTx.serialize();
+    const txId = await connection.sendRawTransaction(rawTransaction, {
+      skipPreflight: false,
+      preflightCommitment: 'confirmed',
+    });
+
+    // Wait for confirmation
+    await connection.confirmTransaction(txId, 'confirmed');
     console.log('Transaction ID:', txId);
 
     return mintKeypair.publicKey.toBase58();
