@@ -1,0 +1,290 @@
+{
+  "@eslint-community/eslint-utils@4.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/eslint-utils",
+    "publisher": "Toru Nagashima",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint-community/eslint-utils",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint-community/eslint-utils/LICENSE"
+  },
+  "@eslint-community/regexpp@4.12.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/regexpp",
+    "publisher": "Toru Nagashima",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint-community/regexpp",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint-community/regexpp/LICENSE"
+  },
+  "@eslint/config-array@0.19.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/config-array",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/config-array/LICENSE"
+  },
+  "@eslint/core@0.10.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/core",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/core/LICENSE"
+  },
+  "@eslint/eslintrc@3.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslintrc",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/eslintrc",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/eslintrc/LICENSE"
+  },
+  "@eslint/js@9.18.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/js",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/js/LICENSE"
+  },
+  "@eslint/object-schema@2.1.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/object-schema",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/object-schema/LICENSE"
+  },
+  "@eslint/plugin-kit@0.2.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/plugin-kit",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@eslint/plugin-kit/LICENSE"
+  },
+  "@mysten/kiosk@0.10.3": {
+    "licenses": "Apache-2.0",
+    "publisher": "Mysten Labs",
+    "email": "build@mystenlabs.com",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@mysten/kiosk",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@mysten/kiosk/README.md"
+  },
+  "@mysten/sui@1.20.0": {
+    "licenses": "Apache-2.0",
+    "publisher": "Mysten Labs",
+    "email": "build@mystenlabs.com",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@mysten/sui",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@mysten/sui/LICENSE"
+  },
+  "@nabla/vite-plugin-eslint@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nabla/vite-plugin-eslint",
+    "publisher": "Arnaud Barré",
+    "url": "https://github.com/ArnaudBarre",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@nabla/vite-plugin-eslint",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@nabla/vite-plugin-eslint/LICENSE"
+  },
+  "@types/eslint@9.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/eslint",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/eslint/LICENSE"
+  },
+  "@types/react-dom@18.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/react-dom",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/react-dom/LICENSE"
+  },
+  "@types/react@18.3.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/react",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@types/react/LICENSE"
+  },
+  "@typescript-eslint/eslint-plugin@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/eslint-plugin",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/eslint-plugin/LICENSE"
+  },
+  "@typescript-eslint/parser@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/parser",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/parser/LICENSE"
+  },
+  "@typescript-eslint/scope-manager@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/scope-manager",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/scope-manager/LICENSE"
+  },
+  "@typescript-eslint/type-utils@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/type-utils",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/type-utils/LICENSE"
+  },
+  "@typescript-eslint/types@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/types",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/types/LICENSE"
+  },
+  "@typescript-eslint/typescript-estree@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/typescript-estree",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/typescript-estree/LICENSE"
+  },
+  "@typescript-eslint/utils@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/utils",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/utils/LICENSE"
+  },
+  "@typescript-eslint/visitor-keys@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/visitor-keys",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@typescript-eslint/visitor-keys/LICENSE"
+  },
+  "@vitejs/plugin-react@4.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitejs/vite-plugin-react",
+    "publisher": "Evan You",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@vitejs/plugin-react",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/@vitejs/plugin-react/LICENSE"
+  },
+  "axios@1.7.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/axios/axios",
+    "publisher": "Matt Zabriskie",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/axios",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/axios/LICENSE"
+  },
+  "bootstrap@5.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/twbs/bootstrap",
+    "publisher": "The Bootstrap Authors",
+    "url": "https://github.com/twbs/bootstrap/graphs/contributors",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/bootstrap",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/bootstrap/LICENSE"
+  },
+  "eslint-plugin-react-hooks@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-plugin-react-hooks",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-plugin-react-hooks/LICENSE"
+  },
+  "eslint-plugin-react-refresh@0.4.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh",
+    "publisher": "Arnaud Barré",
+    "url": "https://github.com/ArnaudBarre",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-plugin-react-refresh",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-plugin-react-refresh/LICENSE"
+  },
+  "eslint-scope@8.2.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/eslint/js",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-scope",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-scope/LICENSE"
+  },
+  "eslint-visitor-keys@4.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/js",
+    "publisher": "Toru Nagashima",
+    "url": "https://github.com/mysticatea",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-visitor-keys",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint-visitor-keys/LICENSE"
+  },
+  "eslint@9.18.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/eslint/LICENSE"
+  },
+  "globals@15.14.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globals",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/globals",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/globals/license"
+  },
+  "react-bootstrap-starter@0.0.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/license-info.json"
+  },
+  "react-dom@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-dom",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-dom/LICENSE"
+  },
+  "react-hot-toast@2.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/timolins/react-hot-toast",
+    "publisher": "Timo Lins",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-hot-toast",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-hot-toast/LICENSE"
+  },
+  "react-router-dom@7.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remix-run/react-router",
+    "publisher": "Remix Software",
+    "email": "hello@remix.run",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-router-dom",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react-router-dom/LICENSE.md"
+  },
+  "react@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/react/LICENSE"
+  },
+  "sass@1.76.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sass/dart-sass",
+    "publisher": "Natalie Weizenbaum",
+    "email": "nweiz@google.com",
+    "url": "https://github.com/nex3",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/sass",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/sass/LICENSE"
+  },
+  "thirdweb@5.85.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/thirdweb-dev/js.git#main",
+    "publisher": "thirdweb eng",
+    "email": "eng@thirdweb.com",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/thirdweb",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/thirdweb/LICENSE"
+  },
+  "typescript-eslint@8.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/typescript-eslint",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/typescript-eslint/LICENSE"
+  },
+  "typescript@5.6.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/microsoft/TypeScript",
+    "publisher": "Microsoft Corp.",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/typescript",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/typescript/LICENSE.txt"
+  },
+  "vite@6.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitejs/vite",
+    "publisher": "Evan You",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/vite",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/vite/LICENSE.md"
+  },
+  "zustand@5.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pmndrs/zustand",
+    "publisher": "Paul Henschel",
+    "path": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/zustand",
+    "licenseFile": "/Users/martindobrev/Code/starter-templates/react-bootstrap-starter/node_modules/zustand/LICENSE"
+  }
+}
+
